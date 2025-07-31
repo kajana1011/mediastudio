@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Remove .php extension from URLs in any folder (admin, client, public, etc.)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([a-zA-Z0-9_-]+/)?([a-zA-Z0-9_-]+)$ $1$2.php [L]
