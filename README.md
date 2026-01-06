@@ -90,6 +90,6 @@ The website is being developed step-by-step to help the client:
 **Location:** Dar es Salaam, Tanzania  
 **Email:** kajanarevocatus@gmail.com  
 **GitHub:** [github.com/kajana1011](https://github.com/kajana1011)  
-**Instagram:** [instagram.com/rmkajana](https://instagram.com/rmkajana)
+
 
 ---
